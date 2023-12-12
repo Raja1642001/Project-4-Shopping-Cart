@@ -1,0 +1,128 @@
+let shopItemsData = [
+  {
+    id:'1',
+    name: "Casual Shirt",
+    price: 45,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img1.jpg"
+  },
+  {
+    id:'2',
+    name: "Casual Jacket",
+    price: 65,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img2.jpg"
+  },
+  {
+    id:'3',
+    name: "T-shirt Women",
+    price: 45,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img3.jpg"
+  },
+  {
+    id:'4',
+    name: "Printed T-shirt",
+    price: 30,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img4.jpg"
+  },
+  {
+    id:'5',
+    name: "Casual Pants",
+    price: 50,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img5.jpg"
+  },
+  {
+    id:'6',
+    name: "Orange Top Women",
+    price: 75,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img6.jpg"
+  },
+  {
+    id:'7',
+    name: "T-shirt White",
+    price: 45,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img7.jpg"
+  },
+  {
+    id:'8',
+    name: "Cotton Top Women",
+    price: 60,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img8.jpg"
+  },
+  {
+    id:'9',
+    name: "Winter Hoodie Pink",
+    price: 90,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img9.jpg"
+  },
+  {
+    id:'10',
+    name: "Women Pants Grey",
+    price: 65,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img10.jpg"
+  },
+  {
+    id:'11',
+    name: "Leather Watch",
+    price: 130,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img11.jpg"
+  },
+  {
+    id:'12',
+    name: "White Sneakers",
+    price: 200,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img12.jpg"
+  },
+  {
+    id:'13',
+    name: "Formal Pants Black",
+    price: 60,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img13.jpg"
+  },
+  {
+    id:'14',
+    name: "Nike Sneakers",
+    price: 600,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img14.jpg"
+  },
+  {
+    id:'15',
+    name: "Fossil Watch",
+    price: 1000,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img15.jpg"
+  },
+  {
+    id:'16',
+    name: "Rain Jacket",
+    price: 85,
+    desc: "Lorem ipsum dolor sit amet.",
+    img:"images/img16.jpg"
+  },
+  {
+    id: "17",
+    name: "Rain Jacket",
+    price: 85,
+    desc: "Lorem ipsum dolor sit amet.",
+    img: "images/img17.jpg",
+  },
+  {
+    id: "18",
+    name: "Rain Jacket",
+    price: 85,
+    desc: "Lorem ipsum dolor sit amet.",
+    img: "images/img18.jpg",
+  }
+];
